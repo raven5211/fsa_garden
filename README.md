@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/garden.git)
+
+---
+
 # Garden
 
 Spring is approaching and some gardeners are discussing how they want to organize their plot this year. In this workshop, you'll be using grid to help them visualize increasingly persnickety garden designs!
